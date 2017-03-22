@@ -19,4 +19,7 @@ public class Staff_Test {
 		assertEquals(1,1);
 	}	
 
+//}
+//public void test Staff(){
+//Staff[] randy= new Staff[]{Mr, Mrs, Ms, Dr, Prof};
 }
